@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Santiago/static/css/main.b312a01f.chunk.css",
+    "main.js": "/Santiago/static/js/main.fdfbff16.chunk.js",
+    "main.js.map": "/Santiago/static/js/main.fdfbff16.chunk.js.map",
+    "runtime-main.js": "/Santiago/static/js/runtime-main.85c5782d.js",
+    "runtime-main.js.map": "/Santiago/static/js/runtime-main.85c5782d.js.map",
+    "static/js/2.1caff5ce.chunk.js": "/Santiago/static/js/2.1caff5ce.chunk.js",
+    "static/js/2.1caff5ce.chunk.js.map": "/Santiago/static/js/2.1caff5ce.chunk.js.map",
+    "index.html": "/Santiago/index.html",
+    "precache-manifest.bf693154fc9269f9083ba189377ae04d.js": "/Santiago/precache-manifest.bf693154fc9269f9083ba189377ae04d.js",
+    "service-worker.js": "/Santiago/service-worker.js",
+    "static/css/main.b312a01f.chunk.css.map": "/Santiago/static/css/main.b312a01f.chunk.css.map",
+    "static/js/2.1caff5ce.chunk.js.LICENSE.txt": "/Santiago/static/js/2.1caff5ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85c5782d.js",
+    "static/js/2.1caff5ce.chunk.js",
+    "static/css/main.b312a01f.chunk.css",
+    "static/js/main.fdfbff16.chunk.js"
+  ]
+}
