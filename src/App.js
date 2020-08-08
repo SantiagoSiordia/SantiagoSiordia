@@ -1,14 +1,14 @@
 import React from 'react';
 import './App.css';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import { Nav, Author, Home } from './components';
+import { Navbar, Author, Home } from './components';
 import ParticlesBg from 'particles-bg';
 
 const App = () => {
   return (
     <div className="App">
       <Router>
-        <Nav />
+        <Navbar />
         <Switch>
           <Route path='/' exact component={Home} />
           <Route path='/Author' exact component={Author} />
