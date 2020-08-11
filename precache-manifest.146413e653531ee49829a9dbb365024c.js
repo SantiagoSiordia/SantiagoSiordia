@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44da98f0bff7a34a782c5ad7f3b7f1e3",
+    "revision": "9dbe65c311869a8427ab44b97829e328",
     "url": "/Santiago/index.html"
   },
   {
-    "revision": "1f02d0a1130ff59984bf",
-    "url": "/Santiago/static/css/main.6d244378.chunk.css"
+    "revision": "dcd8732a422bc1220140",
+    "url": "/Santiago/static/css/main.2055ad32.chunk.css"
   },
   {
     "revision": "3b17b1afb55d7f91340b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Santiago/static/js/2.c0270ba8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f02d0a1130ff59984bf",
-    "url": "/Santiago/static/js/main.c3bbd324.chunk.js"
+    "revision": "dcd8732a422bc1220140",
+    "url": "/Santiago/static/js/main.554211ca.chunk.js"
   },
   {
     "revision": "4a951f408ff128126064",
