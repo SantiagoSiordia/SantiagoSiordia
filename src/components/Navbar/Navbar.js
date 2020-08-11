@@ -19,10 +19,11 @@ const Navbar = () => {
          <ul className={menuOpen ? 'nav-menu active' : 'nav-menu'}>
             {
                MenuItems.map((item, index) => <li key={index}>
-                  <Link className={item.cName}>{item.title}</Link>
+                  <Link to={item.to} className={item.cName}>{item.title}</Link>
                </li>)
             }
          </ul>
+         <Link to='/Contact'><Button children='Contact me' /></Link>
       </nav>
    )
 }
