@@ -1,14 +1,23 @@
 .NavbarItems {
-  background: linear-gradient(
+  /* background: linear-gradient(
     90deg,
     rgb(110, 94, 254) 0%,
     rgba(73, 63, 252, 1) 100%
+  ); */
+  background: linear-gradient(
+    170deg,
+    rgba(73, 63, 252, 0.3) 100%,
+    rgba(110, 94, 254, 0) 0%
   );
   height: 80px;
   display: flex;
   justify-content: center;
   align-items: center;
   font-size: 1.2rem;
+}
+
+.myName {
+  text-decoration: none;
 }
 
 .navbar-logo {

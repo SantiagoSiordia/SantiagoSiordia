@@ -12,7 +12,7 @@ const Navbar = () => {
 
    return (
       <nav className="NavbarItems">
-         <h1 className="navbar-logo">Santiago<i class="fas fa-user-astronaut" /></h1>
+         <Link className='myName' to='/'><h1 className="navbar-logo">Santiago<i class="fas fa-user-astronaut" /></h1></Link>
          <div className="menu-icon" onClick={handleOnToggleMenu}>
             <i className={menuOpen ? 'fas fa-times' : 'fas fa-bars'}></i>
          </div>
