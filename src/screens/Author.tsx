@@ -1,6 +1,6 @@
-import React from 'react';
+import React, { FC } from 'react';
 
-const Author = () => {
+const Author: FC = () => {
    return (
       <div>
          <h1>Author: Santiago</h1>
