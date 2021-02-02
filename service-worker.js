@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SantiagoSiordia/precache-manifest.19c48cae3194b477c3884b2fe77f7ca7.js"
+  "/SantiagoSiordia/precache-manifest.8ed8f75b831c9b74e106046ac768cceb.js"
 );
 
 self.addEventListener('message', (event) => {

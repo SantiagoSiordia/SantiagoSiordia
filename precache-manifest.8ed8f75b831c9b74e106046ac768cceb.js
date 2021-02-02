@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13c70e302508376d9392b4310952984a",
+    "revision": "115a8f10c5215eb07636ae7326401c0a",
     "url": "/SantiagoSiordia/index.html"
   },
   {
-    "revision": "db8e8241dbc133e29be1",
+    "revision": "0a072a15f6fae8b9ba23",
     "url": "/SantiagoSiordia/static/css/main.3ca8393c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SantiagoSiordia/static/js/2.cad08958.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "db8e8241dbc133e29be1",
-    "url": "/SantiagoSiordia/static/js/main.0e289119.chunk.js"
+    "revision": "0a072a15f6fae8b9ba23",
+    "url": "/SantiagoSiordia/static/js/main.9d1bfbeb.chunk.js"
   },
   {
     "revision": "84212ac80c14ca309bff",
