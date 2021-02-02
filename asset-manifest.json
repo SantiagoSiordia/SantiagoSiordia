@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SantiagoSiordia/static/css/main.3ca8393c.chunk.css",
-    "main.js": "/SantiagoSiordia/static/js/main.f0320697.chunk.js",
-    "main.js.map": "/SantiagoSiordia/static/js/main.f0320697.chunk.js.map",
+    "main.js": "/SantiagoSiordia/static/js/main.0e289119.chunk.js",
+    "main.js.map": "/SantiagoSiordia/static/js/main.0e289119.chunk.js.map",
     "runtime-main.js": "/SantiagoSiordia/static/js/runtime-main.81713f61.js",
     "runtime-main.js.map": "/SantiagoSiordia/static/js/runtime-main.81713f61.js.map",
     "static/js/2.cad08958.chunk.js": "/SantiagoSiordia/static/js/2.cad08958.chunk.js",
     "static/js/2.cad08958.chunk.js.map": "/SantiagoSiordia/static/js/2.cad08958.chunk.js.map",
     "index.html": "/SantiagoSiordia/index.html",
-    "precache-manifest.81aa381ff5d63d4ed810efd97fd53ed1.js": "/SantiagoSiordia/precache-manifest.81aa381ff5d63d4ed810efd97fd53ed1.js",
+    "precache-manifest.19c48cae3194b477c3884b2fe77f7ca7.js": "/SantiagoSiordia/precache-manifest.19c48cae3194b477c3884b2fe77f7ca7.js",
     "service-worker.js": "/SantiagoSiordia/service-worker.js",
     "static/css/main.3ca8393c.chunk.css.map": "/SantiagoSiordia/static/css/main.3ca8393c.chunk.css.map",
     "static/js/2.cad08958.chunk.js.LICENSE.txt": "/SantiagoSiordia/static/js/2.cad08958.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.81713f61.js",
     "static/js/2.cad08958.chunk.js",
     "static/css/main.3ca8393c.chunk.css",
-    "static/js/main.f0320697.chunk.js"
+    "static/js/main.0e289119.chunk.js"
   ]
 }
