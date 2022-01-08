@@ -6,7 +6,7 @@ I'm a young technology enthusiast.
 
 ---
 
-<div align='center'>
+<div>
   <a href="https://www.instagram.com/santisiordia/">
     <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/Instagram.png">
   </a>
@@ -17,7 +17,7 @@ I'm a young technology enthusiast.
 
 I like learning new stuff, so here are some of the things I know already!
 
-<div style="width:100vw;background-color:pink;display:flex;justify-content:space-between;align-items:center;">
+<div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/JavaScript.png">
     </a>
@@ -32,10 +32,18 @@ I like learning new stuff, so here are some of the things I know already!
     </a>
     <a href="https://reactjs.org/">
         <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/React.png">
-    
+    </a>
+    <a href="https://www.linux.org/">
+        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/Linux.png">
+    </a>
+    <a href="https://www.kali.org/">
+        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/Kali.png">
+    </a>
 </div>
 
-I'm creating a <a href="https://reactnative.dev/">**React Native**</a> course which I also teach in an Institution dedicated to teach digital expertise called Bedu
+---
+
+I'm creating a **React Native** course which I also teach in BEDU. BEDU is an Institution dedicated to teach digital expertise.
 
 <a href="https://bedu.org/">
     <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/Bedu.png">
