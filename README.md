@@ -32,10 +32,10 @@ I like learning new stuff, so here are some of the things I know already!
     </a>
     <a href="https://reactjs.org/">
         <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/React.png">
-    </a>
+    
 </div>
 
-I'm creating a **React Native** course which I also teach in an Institution dedicated to teach digital expertise called Bedu
+I'm creating a <a href="https://reactnative.dev/">**React Native**</a> course which I also teach in an Institution dedicated to teach digital expertise called Bedu
 
 <a href="https://bedu.org/">
     <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/Bedu.png">
