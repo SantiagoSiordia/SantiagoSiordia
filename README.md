@@ -57,7 +57,7 @@ All of these things I feel confortable with(:
         <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/CSS.png">
     </a>
     <a href="https://react-query.tanstack.com/">
-        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/ReactQuery.png">
+        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/ReactQuery.svg">
     </a>
     <a href="https://graphql.org/">
         <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/GraphQL.png">
