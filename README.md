@@ -17,12 +17,22 @@ I'm a young technology enthusiast.
 
 I like learning new stuff, so here are some of the things I know already!
 
-<div style="width:100%;background-color:pink;display:flex;justify-content:center;align-items:center;">
-    <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/JavaScript.png">
-    <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/TypeScript.png">
-    <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/Node.png">
-    <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/Python.png">
-    <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/React.png">
+<div style="width:100vw;background-color:pink;display:flex;justify-content:center;align-items:center;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/JavaScript.png">
+    </a>
+    <a href="https://www.typescriptlang.org/">
+        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/TypeScript.png">
+    </a>
+    <a href="https://nodejs.org/en/">
+        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/Node.png">
+    </a>
+    <a href="https://www.python.org/">
+        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/Python.png">
+    </a>
+    <a href="https://reactjs.org/">
+        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/React.png">
+    </a>
 </div>
 
 I'm creating a **React Native** course which I also teach in an Institution dedicated to teach digital expertise called Bedu
