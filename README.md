@@ -58,6 +58,8 @@ I like learning new stuff, so here are some of the things I know already!
     </a>
 </div>
 
+## Things worth to mention
+
 I'm creating a **React Native** course which I also teach in BEDU. BEDU is an Institution dedicated to teach digital expertise.
 
 <a href="https://bedu.org/">
