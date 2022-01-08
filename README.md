@@ -67,7 +67,7 @@ All of these things I feel confortable with(:
     </a>
 </div>
 
-## Things worth to mention
+## Things worth mentioning
 
 I'm creating a **React Native** course which I also teach in BEDU. BEDU is an Institution dedicated to teach digital expertise.
 
