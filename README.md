@@ -39,6 +39,21 @@ I like learning new stuff, so here are some of the things I know already!
     <a href="https://www.kali.org/">
         <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/KaliLinux.png">
     </a>
+    <a href="https://docs.oracle.com/en/java/">
+        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/Java.png">
+    </a>
+    <a href="https://jestjs.io/">
+        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/Jest.png">
+    </a>
+    <a href="https://redux.js.org/">
+        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/Redux.png">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/HTML.png">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/CSS.png">
+    </a>
 </div>
 
 ---
