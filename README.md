@@ -17,7 +17,7 @@ I'm a young technology enthusiast!
 
 ## Stuff I know 
 
-I like learning new stuff, so here are some of the things I know already!
+All of these things I feel confortable with(:
 
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -65,3 +65,17 @@ I'm creating a **React Native** course which I also teach in BEDU. BEDU is an In
 <a href="https://bedu.org/">
     <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/Bedu.png">
 </a>
+
+## Things I'd like to do in the near future
+
+I like learning new stuff all the time! So here are things I want to remind myself are worth learning!
+
+https://aws.amazon.com/certification/certified-developer-associate/
+
+<div>
+    <a href="https://aws.amazon.com/certification/certified-developer-associate/">
+        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/AWS.png">
+    </a>
+</div>
+
+There is actually many more, AWS Associate Cert is the only one I'll place here.
