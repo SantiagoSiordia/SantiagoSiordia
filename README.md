@@ -34,10 +34,10 @@ I like learning new stuff, so here are some of the things I know already!
         <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/React.png">
     </a>
     <a href="https://www.linux.org/">
-        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/Linux.png">
+        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/LinuxKernel.png">
     </a>
     <a href="https://www.kali.org/">
-        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/Kali.png">
+        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/KaliLinux.png">
     </a>
 </div>
 
