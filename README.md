@@ -6,6 +6,8 @@ I'm a young technology enthusiast.
 
 ---
 
+These are my social media:
+
 <div>
   <a href="https://www.instagram.com/santisiordia/">
     <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/Instagram.png">
