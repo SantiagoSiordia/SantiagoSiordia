@@ -17,7 +17,7 @@ I'm a young technology enthusiast.
 
 I like learning new stuff, so here are some of the things I know already!
 
-<div style="width:100vw;background-color:pink;display:flex;justify-content:center;align-items:center;">
+<div style="width:100vw;background-color:pink;display:flex;justify-content:space-between;align-items:center;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/JavaScript.png">
     </a>
