@@ -70,8 +70,6 @@ I'm creating a **React Native** course which I also teach in BEDU. BEDU is an In
 
 I like learning new stuff all the time! So here are things I want to remind myself are worth learning!
 
-https://aws.amazon.com/certification/certified-developer-associate/
-
 <div>
     <a href="https://aws.amazon.com/certification/certified-developer-associate/">
         <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/AWS.png">
