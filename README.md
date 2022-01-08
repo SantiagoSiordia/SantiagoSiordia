@@ -6,7 +6,7 @@ I'm a young technology enthusiast.
 
 ---
 
-These are my social media:
+- These are my social media:
 
 <div>
   <a href="https://www.instagram.com/santisiordia/">
@@ -17,7 +17,7 @@ These are my social media:
   </a>
 </div>
 
-I like learning new stuff, so here are some of the things I know already!
+- I like learning new stuff, so here are some of the things I know already!
 
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
