@@ -59,6 +59,12 @@ All of these things I feel confortable with(:
     <a href="https://react-query.tanstack.com/">
         <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/ReactQuery.png">
     </a>
+    <a href="https://graphql.org/">
+        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/GraphQL.png">
+    </a>
+    <a href="https://www.mysql.com/">
+        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/MySQL.png">
+    </a>
 </div>
 
 ## Things worth to mention
