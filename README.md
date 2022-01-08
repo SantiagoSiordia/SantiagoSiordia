@@ -17,7 +17,9 @@ I'm a young technology enthusiast.
 
 I like learning new stuff, so here are some of the things I know already!
 
-<div>
+<div style={{
+    backgroundColor: "pink",
+}}>
     <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/JavaScript.png">
     <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/TypeScript.png">
     <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/Node.png">
