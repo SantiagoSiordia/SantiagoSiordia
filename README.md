@@ -56,6 +56,9 @@ All of these things I feel confortable with(:
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/CSS.png">
     </a>
+    <a href="https://react-query.tanstack.com/">
+        <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/ReactQuery.png">
+    </a>
 </div>
 
 ## Things worth to mention
