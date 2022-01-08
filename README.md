@@ -2,7 +2,7 @@
 
 Welcome to my Github profile.
 
-I'm a young technology enthusiast.
+I'm a young technology enthusiast!
 
 ## Social media
 
