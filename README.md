@@ -13,11 +13,12 @@ I'm a young technology enthusiast!
   <a href="https://www.linkedin.com/in/santiagosiordia/">
     <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/LinkedIn.png">
   </a>
+  <a href="https://www.youtube.com/channel/UCpFY1LwJsUrCAcYBcO1osEA">
+    <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/gh-pages/icons/Youtube.png">
+  </a>
 </div>
 
 ## Stuff I know 
-
-All of these things I feel confortable with(:
 
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
