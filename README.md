@@ -68,7 +68,7 @@ I'm a young technology enthusiast!
     </a>
 </div>
 
-## Things worth to mention
+## Things worth mentioning
 
 I'm creating a **React Native** course which I also teach in BEDU. BEDU is an Institution dedicated to teach digital expertise.
 
