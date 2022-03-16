@@ -70,7 +70,7 @@ I'm a young technology enthusiast!
 
 ## Things worth mentioning
 
-I'm creating a **React Native** course which I also teach in BEDU. BEDU is an Institution dedicated to teach digital expertise.
+I created a **React Native** course which I also teach in BEDU. BEDU is an Institution dedicated to teach digital expertise.
 
 <a href="https://bedu.org/">
     <img height="30" src="https://github.com/SantiagoSiordia/SantiagoSiordia/blob/master/icons/Bedu.png">
