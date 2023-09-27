@@ -1,6 +1,6 @@
 <h1>Santiago González Siordia</h1>
 
-<p>Hi 👋🏻! My name is Santi and I'm a <b>Senior Software Engineer</b>, from <b>Guadalajaram, Jalisco!</b></p>
+<p>Hi 👋🏻! My name is Santi and I'm a <b>Senior Software Engineer</b></p>
 
 <p>I specialize in <b>JavaScript</b> technologies like <b style="color:blue;font-size:46px;" >NodeJS</b>, <b>ReactJS</b>, <b>React Native</b> and always using <b>TypeScript</b></p>
 
