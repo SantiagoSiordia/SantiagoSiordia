@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Santi and I'm a Senior Software Engineer, from Guadalajara!</h2>
+<h1>Santiago González Siordia</h1>
+
+<p>Hi 👋🏻! My name is Santi and I'm a <b>Senior Software Engineer</b>, from <b>Guadalajaram, Jalisco!</b></p>
 
 <p>I specialize in <b>JavaScript</b> technologies like <b style="color:blue;font-size:46px;" >NodeJS</b>, <b>ReactJS</b>, <b>React Native</b> and always using <b>TypeScript</b></p>
 
@@ -11,7 +13,15 @@
 
 ###
 
-<img align="left" height="150" src="https://media.licdn.com/dms/image/C4E03AQFi1Uez9LfQvA/profile-displayphoto-shrink_800_800/0/1609180215412?e=1701302400&v=beta&t=rHRQzJ-zdpBJZqbfEd0RLUduuwXGM2wTWTPd8f0ZSyM"  />
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SantiagoSiordia&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
+
+###
+
+<img align="right" height="150" src="https://media.licdn.com/dms/image/C4E03AQFi1Uez9LfQvA/profile-displayphoto-shrink_800_800/0/1609180215412?e=1701302400&v=beta&t=rHRQzJ-zdpBJZqbfEd0RLUduuwXGM2wTWTPd8f0ZSyM"  />
 
 ###
 
