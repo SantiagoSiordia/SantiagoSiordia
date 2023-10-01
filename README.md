@@ -4,6 +4,8 @@
 
 <p>I specialize in <b>JavaScript</b> technologies like <b style="color:blue;font-size:46px;" >NodeJS</b>, <b>ReactJS</b>, <b>React Native</b> and always using <b>TypeScript</b></p>
 
+<b>I really like coding!</b>
+
 ###
 
 <div align="center">
