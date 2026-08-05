@@ -50,11 +50,12 @@
 ## 📊 Stats
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SantiagoSiordia&theme=default" alt="GitHub stats" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SantiagoSiordia&theme=default" alt="Top languages" height="180" />
+  <img src="./profile-summary-card-output/default/3-stats.svg" alt="GitHub stats" height="180" />
+  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Top languages" height="180" />
 </p>
 <p>
-  <img src="https://streak-stats.demolab.com?user=SantiagoSiordia&hide_border=true" alt="GitHub streak" height="165" />
+  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" alt="Most committed languages" height="180" />
+  <img src="./profile-summary-card-output/default/4-productive-time.svg" alt="Productive time" height="180" />
 </p>
 
 ---
